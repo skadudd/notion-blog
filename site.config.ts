@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '잡케터',
+  name: 'FineNotFine',
   domain: 'growthhack.it',
-  author: '남영',
+  author: 'Fine',
 
   // open graph metadata (optional)
   description: '밑바닥 구르기 장인',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'adDev',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: 'skadudd/adDev',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
